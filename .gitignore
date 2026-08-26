@@ -1,0 +1,57 @@
+# Dependencies
+node_modules/
+vendor/
+
+# Build output and coverage
+dist/
+build/
+out/
+release/
+coverage/
+.nyc_output/
+.vite/
+.next/
+.nuxt/
+.cache/
+
+# Runtime and temporary files
+*.log
+logs/
+tmp/
+temp/
+*.tmp
+*.pid
+
+# Environment and local secrets
+.env
+.env.*
+!.env.example
+!.env.sample
+*.local
+.npmrc
+auth.json
+credentials.json
+secrets.json
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Editors and operating systems
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# PHP local artifacts
+.phpunit.result.cache
+.php-cs-fixer.cache
+composer.phar
+
+# Local databases
+*.sqlite
+*.sqlite3
+*.db
