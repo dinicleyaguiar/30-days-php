@@ -8,7 +8,7 @@ Uma trilha prática de 30 dias para evoluir em PHP, começando pelos fundamentos
 | ---: | --- | --- | --- |
 | 01 | Day 01: Introdução a variáveis e tipos de dados | iniciante | Concluído |
 | 02 | Day 02: Exercício com operadores aritméticos e lógicos | iniciante | Concluído |
-| 03 | Condicionais if, elseif e switch | iniciante | Pendente |
+| 03 | Day 03: Condicionais em PHP | iniciante | Concluído |
 | 04 | Loops for, while e foreach | iniciante | Pendente |
 | 05 | Arrays indexados e associativos | iniciante | Pendente |
 | 06 | Funções e parâmetros | iniciante | Pendente |
