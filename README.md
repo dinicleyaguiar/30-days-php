@@ -12,7 +12,7 @@ Uma trilha prática de 30 dias para evoluir em PHP, começando pelos fundamentos
 | 04 | Loops for, while e foreach | iniciante | Concluído |
 | 05 | Manipulação de Arrays | iniciante | Concluído |
 | 06 | Day 06: Funções e parâmetros - Exercício de cálculo de desconto | iniciante | Concluído |
-| 07 | Strings e funções de texto | iniciante | Pendente |
+| 07 | Day 07: Manipulação de Strings | iniciante | Concluído |
 | 08 | Datas e horários | iniciante | Pendente |
 | 09 | Formulários GET e POST | iniciante | Pendente |
 | 10 | Revisão prática do nível iniciante | iniciante | Pendente |
