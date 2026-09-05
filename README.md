@@ -14,7 +14,7 @@ Uma trilha prática de 30 dias para evoluir em PHP, começando pelos fundamentos
 | 06 | Day 06: Funções e parâmetros - Exercício de cálculo de desconto | iniciante | Concluído |
 | 07 | Day 07: Manipulação de Strings | iniciante | Concluído |
 | 08 | Day 08: Formatação de datas | iniciante | Concluído |
-| 09 | Formulários GET e POST | iniciante | Pendente |
+| 09 | Formulários GET e POST | iniciante | Concluído |
 | 10 | Revisão prática do nível iniciante | iniciante | Pendente |
 | 11 | Include, require e organização de arquivos | intermediário | Pendente |
 | 12 | Leitura e escrita de arquivos | intermediário | Pendente |
