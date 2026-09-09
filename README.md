@@ -16,7 +16,7 @@ Uma trilha prática de 30 dias para evoluir em PHP, começando pelos fundamentos
 | 08 | Day 08: Formatação de datas | iniciante | Concluído |
 | 09 | Formulários GET e POST | iniciante | Concluído |
 | 10 | Day 10: Formulário com validação e cálculo | iniciante | Concluído |
-| 11 | Include, require e organização de arquivos | intermediário | Pendente |
+| 11 | Day 11: Organização de arquivos com includes | intermediário | Concluído |
 | 12 | Leitura e escrita de arquivos | intermediário | Pendente |
 | 13 | Sessões | intermediário | Pendente |
 | 14 | Cookies | intermediário | Pendente |
