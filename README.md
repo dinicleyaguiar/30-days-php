@@ -19,7 +19,7 @@ Uma trilha prática de 30 dias para evoluir em PHP, começando pelos fundamentos
 | 11 | Day 11: Organização de arquivos com includes | intermediário | Concluído |
 | 12 | Day 12: Leitura e escrita de arquivos | intermediário | Concluído |
 | 13 | Day 13: Exercício de sessões - Login e página protegida | intermediário | Concluído |
-| 14 | Cookies | intermediário | Pendente |
+| 14 | Day 14: Exercício de cookies - Armazenamento e exibição de dados | intermediário | Concluído |
 | 15 | Tratamento de exceções | intermediário | Pendente |
 | 16 | JSON em PHP | intermediário | Pendente |
 | 17 | Composer e autoloading | intermediário | Pendente |
