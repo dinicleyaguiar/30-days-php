@@ -22,7 +22,7 @@ Uma trilha prática de 30 dias para evoluir em PHP, começando pelos fundamentos
 | 14 | Day 14: Exercício de cookies - Armazenamento e exibição de dados | intermediário | Concluído |
 | 15 | Day 15: Tratamento de exceções | intermediário | Concluído |
 | 16 | Manipulação de JSON em PHP | intermediário | Concluído |
-| 17 | Composer e autoloading | intermediário | Pendente |
+| 17 | Day 17: Configurando Composer e autoloading para classes PHP | intermediário | Concluído |
 | 18 | PDO e conexão com banco | intermediário | Pendente |
 | 19 | CRUD com PDO | intermediário | Pendente |
 | 20 | Mini projeto intermediário | intermediário | Pendente |
