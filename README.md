@@ -23,7 +23,7 @@ Uma trilha prática de 30 dias para evoluir em PHP, começando pelos fundamentos
 | 15 | Day 15: Tratamento de exceções | intermediário | Concluído |
 | 16 | Manipulação de JSON em PHP | intermediário | Concluído |
 | 17 | Day 17: Configurando Composer e autoloading para classes PHP | intermediário | Concluído |
-| 18 | PDO e conexão com banco | intermediário | Pendente |
+| 18 | Conexão PDO e operações básicas com banco | intermediário | Concluído |
 | 19 | CRUD com PDO | intermediário | Pendente |
 | 20 | Mini projeto intermediário | intermediário | Pendente |
 | 21 | Programação orientada a objetos | avançado | Pendente |
