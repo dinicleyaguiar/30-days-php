@@ -27,7 +27,7 @@ Uma trilha prática de 30 dias para evoluir em PHP, começando pelos fundamentos
 | 19 | Day 19: CRUD com PDO - Lista de Tarefas | intermediário | Concluído |
 | 20 | Day 20: Sistema de Posts Simples | intermediário | Concluído |
 | 21 | Day 21: Implementação de padrão de projeto com classes abstratas | avançado | Concluído |
-| 22 | Herança e polimorfismo | avançado | Pendente |
+| 22 | Herança e Polimorfismo - Forma Geométrica | avançado | Concluído |
 | 23 | Interfaces e classes abstratas | avançado | Pendente |
 | 24 | Traits e namespaces | avançado | Pendente |
 | 25 | Arquitetura MVC | avançado | Pendente |
