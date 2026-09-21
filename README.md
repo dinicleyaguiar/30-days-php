@@ -26,7 +26,7 @@ Uma trilha prática de 30 dias para evoluir em PHP, começando pelos fundamentos
 | 18 | Conexão PDO e operações básicas com banco | intermediário | Concluído |
 | 19 | Day 19: CRUD com PDO - Lista de Tarefas | intermediário | Concluído |
 | 20 | Day 20: Sistema de Posts Simples | intermediário | Concluído |
-| 21 | Programação orientada a objetos | avançado | Pendente |
+| 21 | Day 21: Implementação de padrão de projeto com classes abstratas | avançado | Concluído |
 | 22 | Herança e polimorfismo | avançado | Pendente |
 | 23 | Interfaces e classes abstratas | avançado | Pendente |
 | 24 | Traits e namespaces | avançado | Pendente |
