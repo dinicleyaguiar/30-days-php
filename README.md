@@ -28,7 +28,7 @@ Uma trilha prática de 30 dias para evoluir em PHP, começando pelos fundamentos
 | 20 | Day 20: Sistema de Posts Simples | intermediário | Concluído |
 | 21 | Day 21: Implementação de padrão de projeto com classes abstratas | avançado | Concluído |
 | 22 | Herança e Polimorfismo - Forma Geométrica | avançado | Concluído |
-| 23 | Interfaces e classes abstratas | avançado | Pendente |
+| 23 | Day 23: Interfaces e classes abstratas - Sistema de pagamento | avançado | Concluído |
 | 24 | Traits e namespaces | avançado | Pendente |
 | 25 | Arquitetura MVC | avançado | Pendente |
 | 26 | Construção de API REST | avançado | Pendente |
