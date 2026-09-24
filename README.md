@@ -30,7 +30,7 @@ Uma trilha prática de 30 dias para evoluir em PHP, começando pelos fundamentos
 | 22 | Herança e Polimorfismo - Forma Geométrica | avançado | Concluído |
 | 23 | Day 23: Interfaces e classes abstratas - Sistema de pagamento | avançado | Concluído |
 | 24 | Traits e namespaces: Sistema de veículos | avançado | Concluído |
-| 25 | Arquitetura MVC | avançado | Pendente |
+| 25 | Day 25: Implementação de arquitetura MVC com separação de responsabilidades | avançado | Concluído |
 | 26 | Construção de API REST | avançado | Pendente |
 | 27 | Autenticação e autorização | avançado | Pendente |
 | 28 | Segurança: validação, sanitização e prepared statements | avançado | Pendente |
