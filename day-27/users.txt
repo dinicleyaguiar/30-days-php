@@ -1,0 +1,2 @@
+alice,password,user
+bob,123456,admin
