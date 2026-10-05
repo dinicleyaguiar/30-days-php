@@ -35,7 +35,7 @@ Uma trilha prática de 30 dias para evoluir em PHP, começando pelos fundamentos
 | 27 | Sistema de Autenticação com Roles | avançado | Concluído |
 | 28 | Day 28: Implementação de registro com validação, sanitização e prepared statements | avançado | Concluído |
 | 29 | Day 29: Testes automatizados básicos | avançado | Concluído |
-| 30 | Projeto final PHP | avançado | Pendente |
+| 30 | Projeto Final: Sistema de Quiz com Autenticação | avançado | Concluído |
 
 ## Organização
 
